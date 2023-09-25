@@ -9,8 +9,8 @@ import os, time
 
 #degisken tanimlamalari
 #earsiv giris bilgileri
-kullaniciAdi="91403496"
-kullaniciSifre="573434"
+kullaniciAdi="xxxxx"
+kullaniciSifre="xxxxxx"
 
 # Excel dosyasını oku
 excel_data = pd.read_csv('faturalar.csv',dtype=str)
